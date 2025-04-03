@@ -1,2 +1,4 @@
 # KEYBOARD-LESS-GAMING
-A computer vision based model which uses hand gestures to control our player in GTA V
+The project "Keyboardless Gaming," is a computer vision-based system that enables players to control in-game actions in Grand Theft Auto V (GTA V) using hand gestures instead of a keyboard. Utilizing advanced image processing and machine learning techniques, the system recognizes predefined gestures to perform various in-game functions such as movement, entering and exiting vehicles, handbrake application, and speed boosts. 
+Traditional gaming input devices such as keyboards and controllers limit the interaction between players and games. Gesture-based control systems offer a more intuitive and immersive gaming experience. With the advent of computer vision and machine learning, it is now possible to interpret real-world hand gestures into meaningful in-game actions.
+This project introduces a vision-based hand gesture recognition system specifically designed for GTA V. By employing computer vision techniques, the system identifies hand gestures and maps them to in-game actions, reducing the reliance on conventional input devices
